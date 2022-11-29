@@ -1,0 +1,67 @@
+﻿Annia Navarro Medina		0236619
+Fabián Ruíz Sánchez		0233807
+Maria José Castillo Gallo	0233815
+
+
+Development Log - Travel Agency Project
+Web Application Development
+
+
+Thursday, November 17th
+	We read the project’s instructions to have an idea of where to start. We decided we could divide the work in pages, 
+and only one should work in the backend part of the project.
+	
+
+Sunday, November 20th
+We dedicated the day to seeing some real travel agency pages and designing the UI of the landing page.
+
+
+Monday, November 21st
+	When the landing page was done, we worked on the reservation and tour options pages, we also looked for a good API for our project, 
+but none of them fulfilled our necessities, so we decided to create our own flight, hotels, destinations and prices database to use for the page.
+Challenges faced: the APIs we found asked for an account and their documentation was hard to understand, some others blocked the API key 
+when requested. We did not find an API like the one we used for the second midterm exam.
+
+
+Tuesday, November 22nd
+	When we had our individual pages, we completed the database and started working on the backend. At that point, we did not have a 
+Login form so we worked on its design.
+Challenges faced:  we had some trouble understanding the backend part of the project, it is not our favorite area!
+
+
+Thursday, November 24th
+	We connected the backend to the frontend to see the page fully working. We tested the Login and tried to link the main page to the 
+other parts. We had to learn how to use the Route element in React, but we had some trouble with it, so the teacher kindly offered to help us 
+with our issues. We sent him the project and waited for his corrections.
+Challenges faced: we had problems using the react-router-dom elements to connect the pages between them.
+	
+
+Monday, November 28th
+	The teacher sent us our project, we just had to connect the secondary pages to the landing page, but when we did it, all the styles 
+were ruined because it was linked to multiple css files. We fixed it quickly and dedicated the rest of our time to finding out how to 
+deploy it in heroku for delivery.
+Challenges faced: fixing the css styles of each page by tagging every element with a class so that, for example, what Majo changed 
+in the div element of her css, did not mess up the div elements in Annia’s page, etc.
+	
+
+
+Personal Log
+
+Annia Navarro:  I really enjoyed the making of this project. I think we learned from the past two projects and used a few things such as 
+time and stress management, so this project was more fun to develop. Even though we missed some parts, I think we found a way to make things 
+work and ended up delivering a very functional page that also has a friendly UI. I am proud of ourselves as a team because we could really divide 
+the work and finish things on time. Also, I am very thankful to the teacher for helping us with the very last details; he made it easier for us to 
+make the project work. Excellent job, team!
+
+
+Marijo Castillo:  Apart from the multiple technical difficulties we had regarding the backend part of the project, I really enjoyed making the 
+entire website. It was fun to see the different ways we could display the information and I was excited to design the mainpage interface, since that 
+is my favorite part. Although we weren’t able to complete all of the requirements ( we couldn’t save information in each session ), I believe we did a 
+pretty good job with the overall website because we were able to really learn from the mistakes we did on the past projects. I’m proud of what we were 
+able to accomplish as a team, including the teacher!
+
+
+Fabián Ruiz: I really enjoyed working in this project, cause the last one was a hard one, and i think that i really learned a lot from the 
+mistakes of the last one and we did a good job in this one, specially when you work as a team and everyone can say what they want and thinks, so its 
+better and faster that way. I’m really proud of the job we did and I think that this class really helped me out more with my programmation skills, so 
+I'm really happy about it and I'm looking forward to what's next!
